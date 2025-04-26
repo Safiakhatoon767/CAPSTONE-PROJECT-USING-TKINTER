@@ -1,0 +1,102 @@
+{
+    "1": {
+        "question": "What is the correct file extension for Python files?",
+        "options": [
+            "A. .pt",
+            "B. .pyth",
+            "C. .py",
+            "D. .pyt"
+        ],
+        "answer": "C"
+    },
+    "2": {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": [
+            "A. function",
+            "B. def",
+            "C. define",
+            "D. fun"
+        ],
+        "answer": "B"
+    },
+    "3": {
+        "question": "What is the output of: print(type([]))?",
+        "options": [
+            "A. <class 'list'>",
+            "B. <class 'tuple'>",
+            "C. <class 'dict'>",
+            "D. <class 'set'>"
+        ],
+        "answer": "A"
+    },
+    "4": {
+        "question": "Which of the following is not a valid Python data type?",
+        "options": [
+            "A. list",
+            "B. dict",
+            "C. map",
+            "D. tuple"
+        ],
+        "answer": "C"
+    },
+    "5": {
+        "question": "How do you start a comment in Python?",
+        "options": [
+            "A. //",
+            "B. /*",
+            "C. <!--",
+            "D. #"
+        ],
+        "answer": "D"
+    },
+    "6": {
+        "question": "What will be the output of: 3 * 'ab'?",
+        "options": [
+            "A. ab3",
+            "B. ababab",
+            "C. ab ab ab",
+            "D. Error"
+        ],
+        "answer": "B"
+    },
+    "7": {
+        "question": "Which of these is a loop in Python?",
+        "options": [
+            "A. repeat",
+            "B. loop",
+            "C. for",
+            "D. foreach"
+        ],
+        "answer": "C"
+    },
+    "8": {
+        "question": "What is the output of: len('Python')?",
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 7",
+            "D. Error"
+        ],
+        "answer": "B"
+    },
+    "9": {
+        "question": "Which of the following is used to handle exceptions in Python?",
+        "options": [
+            "A. try-except",
+            "B. catch",
+            "C. error",
+            "D. throw"
+        ],
+        "answer": "A"
+    },
+    "10": {
+        "question": "What is the correct way to create a dictionary in Python?",
+        "options": [
+            "A. dict = []",
+            "B. dict = ()",
+            "C. dict = {}",
+            "D. dict = <>"
+        ],
+        "answer": "C"
+    }
+}
